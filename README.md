@@ -1,5 +1,3 @@
-Oke Sukri, berikut saya buatkan README.md lengkap, singkat, jelas, dan siap copy-paste untuk repo ci4-crud-ajax-generator, termasuk panduan instalasi, fitur, dan penggunaan JSON generator. Tinggal copas ke file README.md di repo-mu.
-
 # CI4 CRUD AJAX Generator
 
 🚀 Generator CRUD otomatis berbasis **CodeIgniter 4 + AJAX + Bootstrap + DataTables**.  
